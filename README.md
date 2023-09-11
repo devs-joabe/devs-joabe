@@ -15,6 +15,9 @@ Ao longo do curso, tive a oportunidade de mergulhar em diversas tecnologias, inc
 - **ReactJS**: ⚛️ Um dos frameworks mais populares para desenvolvimento de interfaces de usuário.
 - **React Native**: 📱 Uma biblioteca para desenvolvimento de aplicativos móveis nativos.
 
+🎯 Talento Cloud Pro - Desenvolvimento Web e Cloud
+Atualmente, estou em uma emocionante jornada de aprendizado na Talento Cloud Pro, com foco em Desenvolvimento Web e Cloud, conduzido pela Proz Educação. Este curso está me proporcionando um conhecimento profundo sobre as tecnologias mais recentes e práticas da indústria de desenvolvimento web e computação em nuvem.
+
 ## 💡 Objetivo
 
 Meu principal objetivo é contribuir para a comunidade de desenvolvedores e fazer a diferença por meio de projetos criativos e eficientes. Estou ansioso para colaborar em projetos empolgantes e aprender com profissionais talentosos.
