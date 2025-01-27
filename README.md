@@ -21,7 +21,6 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, com grande paixão por c
 ## **🚀 Sobre Mim**
 - 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas (SENAI)  
 - 🎓 **Nova Jornada**: Análise e Desenvolvimento de Sistemas (UNIFAN)  
-- 🌐 **Talento Cloud Pro (Proz Educação)**: Foco em Desenvolvimento Web e Cloud  
 - 💡 **Objetivo**: Contribuir com projetos criativos, aprender com a comunidade e colaborar em soluções de impacto
 
 ---
@@ -47,10 +46,8 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, com grande paixão por c
 
 ## **🛠️ Projetos & Destaques**
 
-- **[Imagin8](https://imagin-mu.vercel.app/inicio)**  
+- **[Swistart]([https://imagin-mu.vercel.app/inicio](https://swistart.com/))**  
   Meu site pessoal, onde compartilho projetos, ideias e minha evolução no mundo do desenvolvimento.
-- **Talento Cloud Pro**  
-  Em andamento, focado em **Desenvolvimento Web** e **Cloud**.  
 - Confira meus outros repositórios para mais projetos e contribuições.
 
 ---
