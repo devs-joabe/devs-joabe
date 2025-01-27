@@ -46,7 +46,7 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, com grande paixão por c
 
 ## **🛠️ Projetos & Destaques**
 
-- **[Swistart]([https://imagin-mu.vercel.app/inicio](https://swistart.com/])**  
+- **[Swistart]([https://swistart.com/])**  
   Meu site pessoal, onde compartilho projetos, ideias e minha evolução no mundo do desenvolvimento.
 - Confira meus outros repositórios para mais projetos e contribuições.
 
