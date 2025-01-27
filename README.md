@@ -46,7 +46,7 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, com grande paixão por c
 
 ## **🛠️ Projetos & Destaques**
 
-- **[Swistart]([https://imagin-mu.vercel.app/inicio](https://swistart.com/))**  
+- **[Swistart]([https://imagin-mu.vercel.app/inicio](https://swistart.com/])**  
   Meu site pessoal, onde compartilho projetos, ideias e minha evolução no mundo do desenvolvimento.
 - Confira meus outros repositórios para mais projetos e contribuições.
 
@@ -62,7 +62,7 @@ Olá! Sou **Joabe**, **Desenvolvedor Fullstack Pleno**, com grande paixão por c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joabe-nascimento&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- TROFÉUS OPCIONAIS: descomente para usar
+TROFÉUS OPCIONAIS: descomente para usar
 [![trophy](https://github-profile-trophy.vercel.app/?username=joabe-nascimento&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 </div>
