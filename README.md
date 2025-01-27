@@ -57,10 +57,10 @@ Olá! Sou **Joabe**, um entusiasta apaixonado por desenvolvimento de sistemas. C
 <div align="center">
 
 <!-- Substitua 'SEU_USUARIO' abaixo pelo seu usuário do GitHub -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=dracula)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joabe-nascimento&show_icons=true&theme=dracula&include_all_commits=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joabe-nascimento&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joabe-nascimento&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
